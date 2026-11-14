@@ -114,4 +114,4 @@ lib/
 
 ## Banane wali
 
-**Amta Hafeez**: Mobile App Development Intern
+**Amta Hafeez**: Mobile App Development Intern (5th Semester Student)
